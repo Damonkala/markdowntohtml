@@ -1,0 +1,13 @@
+#textBox{
+	height: 300px;
+	width: 300px;
+	display: inline-block;
+}
+p{
+	display: inline-block;
+}
+#htmlz{
+	border: 1px solid black;
+	height:100%;
+	width: 100%;
+}
